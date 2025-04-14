@@ -8,6 +8,11 @@ This day focuses on **Continuous Integration/Continuous Deployment (CI/CD)** in 
 - Task 2: Add a CD pipeline to deploy the application to a server or cloud platform.
 - Task 3: Integrate Docker into the CI/CD pipeline for containerized deployments.
 
+## Exercises
+- Set up a CI pipeline using GitHub Actions to test and build a Go application.
+- Add a CD pipeline to deploy the application to a cloud platform (e.g., AWS, GCP).
+- Integrate Docker into the pipeline to build and push container images.
+
 ## Resources
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)

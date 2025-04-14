@@ -39,3 +39,9 @@ func main() {
     fmt.Println("Microservice running on port 8080")
     http.ListenAndServe(":8080", nil)
 }
+```
+
+## Exercises
+- Build a RESTful microservice with endpoints for CRUD operations.
+- Use `go-kit` to add service discovery and logging to your microservice.
+- Deploy multiple microservices and enable communication using gRPC or HTTP.

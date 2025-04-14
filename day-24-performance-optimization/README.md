@@ -38,3 +38,9 @@ func main() {
         slowFunction()
     }
 }
+```
+
+## Exercises
+- Run the example code and use `pprof` to analyze its performance.
+- Optimize the `slowFunction` to reduce its execution time.
+- Write benchmarks for a Go function and compare results before and after optimization using `benchstat`.

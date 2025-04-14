@@ -60,7 +60,8 @@ Here’s a simple example of a function and a package:
 - [Go Packages Documentation](https://golang.org/doc/code.html#Packages)
 
 ## Exercises
-1. Create a package that includes functions for basic arithmetic operations (addition, subtraction, multiplication, division).
-2. Write a main program that imports your arithmetic package and uses its functions.
+- Write a Go program with at least three functions, including one that returns multiple values.
+- Create a custom package and use it in your main program.
+- Explore Go's standard library and use the `math` package in your program.
 
 Happy coding!

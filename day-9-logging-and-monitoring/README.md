@@ -72,5 +72,10 @@ func main() {
 }
 ```
 
+## Exercises
+- Add structured logging to a Go application using `logrus` or `zap`.
+- Create a Go program that logs messages at different levels (e.g., info, warning, error).
+- Integrate a monitoring tool like Prometheus to collect metrics from your Go application.
+
 ## Conclusion
 Implementing effective logging and monitoring in your Go applications will help you maintain visibility into application performance and issues, which is crucial for successful DevOps practices.

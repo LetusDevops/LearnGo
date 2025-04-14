@@ -42,3 +42,9 @@ func main() {
         fmt.Println("Password matches!")
     }
 }
+```
+
+## Exercises
+- Implement password hashing and verification using the `bcrypt` package.
+- Secure a Go web server with TLS and serve HTTPS traffic.
+- Add JWT-based authentication to a REST API and secure specific endpoints.

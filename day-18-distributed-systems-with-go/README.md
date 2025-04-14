@@ -49,3 +49,9 @@ func main() {
         log.Fatalf("failed to serve: %v", err)
     }
 }
+```
+
+## Exercises
+- Build a gRPC client to interact with the example server.
+- Implement a distributed key-value store with multiple nodes communicating via gRPC.
+- Use Consul or etcd for service discovery in your distributed system.

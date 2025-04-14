@@ -26,3 +26,9 @@ import (
 func main() {
     fmt.Println(quote.Hello())
 }
+```
+
+## Exercises
+- Initialize a new Go module and explore the `go.mod` file.
+- Add a dependency to your project and use it in your code.
+- Use the `replace` directive in `go.mod` to point to a local module.

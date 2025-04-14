@@ -32,3 +32,9 @@ func main() {
     fmt.Println("Service running on port 8080")
     http.ListenAndServe(":8080", nil)
 }
+```
+
+## Exercises
+- Deploy a Go microservice to a Kubernetes cluster with Istio or Linkerd installed.
+- Use the service mesh to implement traffic splitting between two versions of the microservice.
+- Enable observability features like tracing and metrics for the Go microservice using the service mesh.

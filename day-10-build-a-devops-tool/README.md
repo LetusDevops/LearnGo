@@ -62,6 +62,11 @@ golang-10-day-path
   go run main.go list
   ```
 
+## Exercises
+- Build a CLI tool to manage Docker containers (e.g., list, start, stop).
+- Create a Go program to automate a CI/CD pipeline task (e.g., triggering builds).
+- Develop a small tool to monitor system resources (e.g., CPU, memory usage).
+
 ## Conclusion
 
 By the end of this project, you will have a functional CLI tool that demonstrates your ability to apply GoLang in a DevOps context. This project not only reinforces your learning but also provides a practical tool that can be used in real-world scenarios.

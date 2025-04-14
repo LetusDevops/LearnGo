@@ -33,3 +33,9 @@ func main() {
         return nil
     })
 }
+```
+
+## Exercises
+- Write a Go program to initialize and apply a Terraform configuration.
+- Use Pulumi with Go to create a cloud resource (e.g., an S3 bucket).
+- Compare the output of Terraform and Pulumi for the same infrastructure.

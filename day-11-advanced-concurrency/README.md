@@ -53,3 +53,9 @@ func main() {
         fmt.Printf("Result: %d\n", <-results)
     }
 }
+```
+
+## Exercises
+- Write a program that uses goroutines to perform multiple tasks concurrently.
+- Implement a worker pool to process tasks in parallel.
+- Use channels to build a producer-consumer model.

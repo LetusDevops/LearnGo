@@ -44,3 +44,9 @@ func main() {
 
     fmt.Printf("Bucket %s created successfully\n", bucketName)
 }
+```
+
+## Exercises
+- Use the AWS SDK for Go to upload and download files from an S3 bucket.
+- Use the GCP SDK for Go to create a Google Cloud Storage bucket and upload a file.
+- Automate the creation of virtual machines or cloud functions using Go SDKs for AWS, GCP, or Azure.

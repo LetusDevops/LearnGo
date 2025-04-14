@@ -63,3 +63,9 @@ func main() {
     failOnError(err, "Failed to publish a message")
     fmt.Printf(" [x] Sent %s\n", body)
 }
+```
+
+## Exercises
+- Set up RabbitMQ or Kafka locally and test the example code.
+- Modify the example to include multiple producers and consumers.
+- Implement a retry mechanism for failed message processing.

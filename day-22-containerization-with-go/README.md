@@ -40,3 +40,9 @@ func main() {
         fmt.Printf("Container ID: %s, Image: %s, Status: %s\n", container.ID[:10], container.Image, container.Status)
     }
 }
+```
+
+## Exercises
+- Write a Dockerfile to containerize a Go application and build the image.
+- Use the `docker/docker` library to create a Go program that starts and stops containers.
+- Build a CLI tool to list all running containers and their statuses.

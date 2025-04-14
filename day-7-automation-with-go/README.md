@@ -33,4 +33,9 @@ In this section, we will explore how to automate various DevOps tasks using Go. 
 - A Go script that automates the deployment of a web application to a Docker container.
 - A Go application that provisions infrastructure on AWS using the AWS SDK.
 
+## Exercises
+- Write a Go script to automate a repetitive task (e.g., file renaming or log parsing).
+- Use Go to interact with a third-party API and automate data retrieval.
+- Automate the deployment of a simple application using Go.
+
 By the end of this section, you should have a solid understanding of how to leverage Go for automating DevOps tasks, making your workflows more efficient and reliable.

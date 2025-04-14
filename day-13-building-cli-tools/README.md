@@ -34,3 +34,9 @@ func main() {
 
     rootCmd.Execute()
 }
+```
+
+## Exercises
+- Build a CLI tool that accepts user input and performs a simple task (e.g., file renaming).
+- Use the `cobra` library to add subcommands to your CLI tool.
+- Implement flags and arguments for your CLI tool.

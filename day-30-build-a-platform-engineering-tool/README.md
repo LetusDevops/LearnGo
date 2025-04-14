@@ -46,3 +46,9 @@ func main() {
         fmt.Printf("- %s\n", pod.Name)
     }
 }
+```
+
+## Exercises
+- Build a CLI tool to list and manage Kubernetes resources (e.g., pods, deployments).
+- Add functionality to automate CI/CD tasks, such as triggering builds or deployments.
+- Package your tool as a Docker container for easy distribution.

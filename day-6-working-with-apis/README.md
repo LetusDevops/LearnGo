@@ -41,8 +41,9 @@ func main() {
 ```
 
 ## Exercises
-1. Modify the sample code to return a different message.
-2. Create an endpoint that accepts a POST request and returns the data sent in the request.
+- Write a Go program to consume a REST API and parse the JSON response.
+- Create a REST API using Go's `net/http` package.
+- Use a router library like `gorilla/mux` to add routing to your API.
 
 ## Next Steps
 After completing this day, you will be ready to automate DevOps tasks using Go in the following days.

@@ -53,7 +53,8 @@ func main() {
 ```
 
 ### Exercises
-1. Create a program that reads a text file and prints its contents to the console.
-2. Build an HTTP server that serves static files from a directory.
+- Write a program to read and write to a file.
+- Create a simple HTTP server that responds with "Hello, World!".
+- Fetch data from a public API using Go's `net/http` package.
 
 By the end of Day 5, you should be comfortable with file operations and basic network programming in Go. Happy coding!

@@ -35,3 +35,9 @@ func main() {
     // This is required for AWS Lambda to recognize the handler
     fmt.Println("AWS Lambda function ready")
 }
+```
+
+## Exercises
+- Write a Go function that processes an event (e.g., an HTTP request or a message from a queue).
+- Deploy the function to AWS Lambda and test it using the AWS CLI.
+- Deploy the function to Google Cloud Functions and test it using the GCP Console.

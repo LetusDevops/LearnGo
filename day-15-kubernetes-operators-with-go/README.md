@@ -45,3 +45,9 @@ func main() {
         fmt.Println("Pod Name:", pod.Name)
     }
 }
+```
+
+## Exercises
+- Create a custom resource definition (CRD) for managing a specific application (e.g., a database).
+- Implement a controller that watches the CRD and performs actions based on its state.
+- Deploy your operator to a Kubernetes cluster and test its functionality.

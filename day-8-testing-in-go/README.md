@@ -32,6 +32,11 @@ func TestAdd(t *testing.T) {
 }
 ```
 
+## Exercises
+- Write unit tests for a simple Go function using the `testing` package.
+- Use table-driven tests to test multiple cases in a single test function.
+- Explore and use a mocking library to mock dependencies in your tests.
+
 ## Next Steps
 - Implement tests for your existing Go code.
 - Explore advanced testing techniques such as benchmarking and integration testing.

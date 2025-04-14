@@ -49,3 +49,9 @@ func main() {
     http.HandleFunc("/", handler)
     http.ListenAndServe(":8080", nil)
 }
+```
+
+## Exercises
+- Add structured logging to the example application using `logrus`.
+- Modify the example to include custom metrics (e.g., request duration).
+- Integrate distributed tracing using OpenTelemetry and visualize traces in Jaeger or Zipkin.

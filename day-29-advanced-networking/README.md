@@ -52,3 +52,9 @@ func main() {
         go handleConnection(conn)
     }
 }
+```
+
+## Exercises
+- Build a TCP client to communicate with the example server.
+- Implement a custom protocol for exchanging structured data between the server and client.
+- Create a load balancer in Go to distribute traffic across multiple instances of the TCP server.

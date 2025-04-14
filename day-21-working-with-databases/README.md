@@ -50,3 +50,9 @@ func main() {
     db.Find(&users)
     fmt.Println("Users:", users)
 }
+```
+
+## Exercises
+- Set up a PostgreSQL or MySQL database and perform CRUD operations using the `gorm` library.
+- Work with MongoDB to store and retrieve documents using the `mongo-go-driver`.
+- Explore how to use transactions and connection pooling in Go.

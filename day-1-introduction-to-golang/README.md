@@ -28,7 +28,8 @@ func main() {
 ```
 
 ## Exercises
-- Modify the above program to print your name.
-- Experiment with different data types in Go.
+- Write a Go program to print "Hello, World!".
+- Create a program that declares and initializes variables of different data types.
+- Experiment with Go's `fmt` package to format and print output.
 
 Happy coding!

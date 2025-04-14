@@ -67,4 +67,9 @@ func main() {
 - Implement a program that fetches data from multiple APIs concurrently.
 - Create a simple chat application using goroutines and channels.
 
+## Exercises
+- Write a program that uses goroutines to print numbers concurrently.
+- Use channels to communicate between goroutines.
+- Implement a worker pool using goroutines and channels.
+
 By mastering concurrency in Go, you can significantly enhance the performance of your DevOps tools and workflows. Happy coding!

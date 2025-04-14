@@ -37,5 +37,10 @@ func main() {
 - Write a function that reads a file and returns an error if the file does not exist.
 - Implement a custom error type that includes additional context about the error.
 
+## Exercises
+- Write a program that reads a file and handles errors if the file does not exist.
+- Implement a custom error type and use it in your program.
+- Use `defer`, `panic`, and `recover` to handle unexpected errors.
+
 ## Conclusion
 Understanding and implementing proper error handling is essential for building robust Go applications. Make sure to practice handling errors in your code to become proficient in Go's error handling paradigm.
